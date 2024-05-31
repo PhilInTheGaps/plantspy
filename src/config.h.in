@@ -1,0 +1,10 @@
+#pragma once
+
+#cmakedefine WIFI_SSID "@WIFI_SSID@"
+#cmakedefine WIFI_PASSWORD "@WIFI_PASSWORD@"
+
+#cmakedefine MQTT_SERVER_HOST "@MQTT_SERVER_HOST@"
+#cmakedefine MQTT_SERVER_PORT @MQTT_SERVER_PORT@
+#cmakedefine MQTT_CLIENT_ID "@MQTT_CLIENT_ID@"
+#cmakedefine MQTT_USER "@MQTT_USER@"
+#cmakedefine MQTT_PASSWORD "@MQTT_PASSWORD@"
